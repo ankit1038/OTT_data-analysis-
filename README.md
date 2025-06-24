@@ -4,21 +4,21 @@ Problem Statement/Hypothetical Scenario:
 As the demand for streaming content continues to grow, understanding patterns in content type, release trends, and viewer-relevant attributes has become crucial for OTT platforms. This project aims to perform a comprehensive data analysis of a OTT platform to uncover insights related to content distribution, popularity, and regional presence.
 
 The analysis focuses on answering key questions such as:
-Understanding content type distribution (Movies vs TV Shows)
-Identifying common content ratings for audience targeting
-Filtering content by release year for trend analysis
-Finding top content-producing countries for regional strategy
-Detecting long-duration content for platform optimization
-Assessing content freshness and recent additions
-Tracking content created by specific directors
-Identifying long-running TV shows for engagement strategies
-Measuring content diversity across genres
-Analyzing annual content trends in India for strategic planning
-Isolating documentaries for niche content promotion
-Detecting incomplete metadata (missing director info)
-Tracking actor-specific content output over time
-Identifying top contributing actors for a region 
-Categorizing content tone using keyword-based sentiment analysis (Good vs Bad)
+-Understanding content type distribution (Movies vs TV Shows)
+-Identifying common content ratings for audience targeting
+-Filtering content by release year for trend analysis
+-Finding top content-producing countries for regional strategy
+-Detecting long-duration content for platform optimization
+-Assessing content freshness and recent additions
+-Tracking content created by specific directors
+-Identifying long-running TV shows for engagement strategies
+-Measuring content diversity across genres
+-Analyzing annual content trends in India for strategic planning
+-Isolating documentaries for niche content promotion
+-Detecting incomplete metadata (missing director info)
+-Tracking actor-specific content output over time
+-Identifying top contributing actors for a region 
+-Categorizing content tone using keyword-based sentiment analysis (Good vs Bad)
 
 1. Data base setup and table formation
 ```sql
