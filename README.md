@@ -22,6 +22,10 @@ The analysis focuses on answering key questions such as:
 
 1. Data base setup and table formation
 ```sql
+CREATE DATABASE OTT;
+```
+
+```sql
 CREATE TABLE ott
 (
 	show_id	VARCHAR(5),
